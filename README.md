@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-yadav-2a0a6337b/)
-[![Gmail](https://img.shields.io/badge/Email-harshit100807%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit100807@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-harshit100807yadav%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit100807@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Hrxsit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hrxsit)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Hrxsit.Hrxsit&left_color=%23282a36&right_color=%23bd93f9" alt="Profile views" />
@@ -28,7 +28,7 @@ I'm a student at **IIT Guwahati** with a strong interest in **machine learning, 
 - 🔭 Currently exploring **deep learning** with PyTorch and TensorFlow
 - 🛠️ Comfortable with **C++** for algorithms and **Python** for data and ML
 - 🤝 Open to collaborating on **ML, open-source and research projects**
-- 📫 Reach me at **harshit100807@gmail.com**
+- 📫 Reach me at **harshit100807yadav@gmail.com**
 
 ---
 
