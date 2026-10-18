@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-yadav-2a0a6337b/)
-[![Gmail](https://img.shields.io/badge/Email-harshit100807yadav%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit100807@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-harshit100807%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit100807@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Hrxsit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hrxsit)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Hrxsit.Hrxsit&left_color=%23282a36&right_color=%23bd93f9" alt="Profile views" />
@@ -28,7 +28,7 @@ I'm a student at **IIT Guwahati** with a strong interest in **machine learning, 
 - 🔭 Currently exploring **deep learning** with PyTorch and TensorFlow
 - 🛠️ Comfortable with **C++** for algorithms and **Python** for data and ML
 - 🤝 Open to collaborating on **ML, open-source and research projects**
-- 📫 Reach me at **harshit100807yadav@gmail.com**
+- 📫 Reach me at **harshit100807@gmail.com**
 
 ---
 
@@ -61,16 +61,20 @@ I'm a student at **IIT Guwahati** with a strong interest in **machine learning, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hrxsit/Hrxsit/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/Hrxsit/Hrxsit/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrxsit&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrxsit&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=true" height="170" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Hrxsit&theme=dracula&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hrxsit/Hrxsit/snake-output/snake.svg" alt="Contribution snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrxsit&theme=dracula&hide_border=true&area=true" alt="Contribution graph" />
 </div>
 
 ---
